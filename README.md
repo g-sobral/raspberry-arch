@@ -1,5 +1,6 @@
-# raspberry-arch
-HOW TO install and configure Arch Linux on Raspberry Pi
+# Raspberry Pi with ArchLinux
+
+HOW TO install and setup Arch Linux on Raspberry Pi
 
 ## SD Card Creation
 
